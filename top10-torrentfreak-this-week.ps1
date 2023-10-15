@@ -2,7 +2,7 @@
 $jellyfinServerURL = "https://mydomain.tld/jellyfin"
 $jellyfinAPIKey = "my-jellyfin-api-key"
 $libraryId = ""  # Replace with your library ID
-$collectionName = "- Top movies of the week"
+$collectionName = "- Top 10 torrentfreak movies this week"
 $minRating = 2
 $minYear = 2022
 
